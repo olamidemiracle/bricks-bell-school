@@ -1,0 +1,148 @@
+Build a modern, beautiful, child-friendly website for a Nursery and Primary School.
+
+The website should immediately feel like it is designed for children, but it must also look professional, trustworthy, and appealing to parents.
+
+### Design Style
+
+* Use a playful, colorful, cheerful visual style.
+* Use bright but soft colors such as sky blue, yellow, orange, green, purple, and other child-friendly colors.
+* Use rounded cards, buttons, sections, and friendly shapes.
+* Add subtle playful illustrations such as books, pencils, stars, clouds, school buses, ABC letters, numbers, crayons, backpacks, and children learning.
+* Use friendly, modern typography that is easy to read.
+* Add tasteful animations and hover effects, but don't overdo them.
+* Use rounded corners and soft shadows.
+* Make the website feel energetic and welcoming rather than corporate.
+* The design should work beautifully on phones, tablets, and desktops.
+
+### Target Audience
+
+The website has two main audiences:
+
+1. Parents looking for a good school for their children.
+2. Children who should find the website fun and welcoming.
+
+Parents should immediately be able to understand:
+
+* What the school offers
+* Why they should choose the school
+* The school's academic approach
+* The classes available
+* School activities
+* Facilities
+* How to contact the school
+* How to apply/enroll their child
+
+### Homepage
+
+Create an engaging homepage with:
+
+1. A playful hero section
+
+   * Strong headline welcoming parents and children.
+   * Short description about the school.
+   * Primary CTA: "Enroll Your Child"
+   * Secondary CTA: "Explore Our School"
+   * Include a cheerful school/children illustration or high-quality image.
+
+2. Quick school statistics
+
+   * Years of experience
+   * Number of students
+   * Number of teachers
+   * Classes/programs
+
+3. About the School
+
+   * Short introduction
+   * Mission and vision
+   * "Learn More" button
+
+4. Our Classes
+   Display nursery and primary classes in attractive cards.
+   For example:
+
+   * Nursery 1
+   * Nursery 2
+   * Nursery 3
+   * Primary 1
+   * Primary 2
+   * Primary 3
+   * Primary 4
+   * Primary 5
+   * Primary 6
+
+5. Why Choose Us?
+   Highlight things such as:
+
+   * Qualified teachers
+   * Safe learning environment
+   * Strong academic foundation
+   * Character development
+   * Extracurricular activities
+   * Modern learning facilities
+
+6. School Activities
+   Showcase activities such as:
+
+   * Sports
+   * Music
+   * Arts and crafts
+   * Excursions
+   * Cultural activities
+   * Science activities
+
+7. Facilities
+   Showcase classrooms, playground, library, computer room, science facilities, etc.
+
+8. Parent Testimonials
+   Include attractive testimonial cards from parents.
+
+9. Call-to-Action section
+   Encourage parents to start the admission process.
+
+10. Footer
+    Include:
+
+* School logo/name
+* Quick links
+* Contact information
+* Address
+* Phone number
+* Email
+* Social media links
+
+### Navigation
+
+Create a clear navigation bar with:
+
+* Home
+* About Us
+* Academics
+* Classes
+* Activities
+* Facilities
+* Admissions
+* Gallery
+* Contact
+
+Include a prominent "Apply Now" or "Enroll Now" button.
+
+### Important UX Requirements
+
+* The website must be easy for parents to navigate.
+* Important information should never be difficult to find.
+* Make the admission/enrollment process obvious.
+* Use clear call-to-action buttons.
+* Make the website accessible and readable.
+* Optimize the design for mobile devices.
+* Avoid making it look like a generic corporate business website.
+* Avoid excessive animations that could make the website distracting.
+* Keep the playful design polished and professional.
+
+### Overall Feeling
+
+When someone opens the website, they should immediately think:
+
+"This is a fun, caring, safe, and high-quality school where my child can learn and grow."
+
+Make the final design feel like a premium modern nursery and primary school website, combining a playful children's aesthetic with the trust and professionalism parents expect from a school.

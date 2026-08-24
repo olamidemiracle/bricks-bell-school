@@ -15,6 +15,24 @@ document.querySelectorAll("#year").forEach((el) => {
   el.textContent = new Date().getFullYear();
 });
 
+// Scroll reveal animation for .reveal elements
+if ("IntersectionObserver" in window) {
+  const revealObserver = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("visible");
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    },
+    { threshold: 0.15 }
+  );
+  document.querySelectorAll(".reveal").forEach((el) => revealObserver.observe(el));
+} else {
+  document.querySelectorAll(".reveal").forEach((el) => el.classList.add("visible"));
+}
+
 // Contact form (no backend configured yet — guide the visitor to call directly)
 const contactForm = document.getElementById("contactForm");
 if (contactForm) {
