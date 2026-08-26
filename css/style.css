@@ -1,10 +1,12 @@
 /* ===== Bricks Bell Nursery & Primary School — stylesheet ===== */
 
 :root {
-  --blue: #2563eb;
-  --blue-dark: #1d4ed8;
+  /* Primary colors sampled from the real Bricks Bell signboard photo:
+     indigo-blue lettering + lime-green board background */
+  --blue: #2c4c96;
+  --blue-dark: #1e3a73;
   --sky: #0ea5e9;
-  --yellow: #fbbf24;
+  --yellow: #c7d24a;
   --orange: #f97316;
   --red: #ef4444;
   --green: #22c55e;
